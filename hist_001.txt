@@ -1,0 +1,40 @@
+    1  git remote
+    2  git remote -v
+    3  git pull
+    4  git push
+    5  git pull
+    6  ls ~/.git/
+    7* cat ~
+    8  ls -lart ~/
+    9  ls -lart ~/.git
+   10  cat ~/.git/config 
+   11  grep -R HSchroed .
+   12  ls
+   13  ll
+   14  git status
+   15  ls .local/
+   16  cat .profile 
+   17  cat /etc/os-release 
+   18  git status
+   19  git add Samples.ipynb 
+   20  git commit -m "Added scratchbook of my investigations"
+   21  git config --global user.email "henning.schroeder@intel.com"
+   22  git config --global user.name "Henning Schroeder"
+   23  git commit -m "Added scratchbook of my investigations"
+   24  git push
+   25  git pull
+   26  git fetch
+   27  git pull
+   28  git status
+   29  rm 06-concat.ipynb 
+   30  git pull
+   31  git checkout 06-concat.ipynb
+   32  git status
+   33  git pull
+   34  git commit -m "merge"
+   35  git pull
+   36  git push
+   37  pip install statsmodels
+   38  git status
+   39  git add MyNotes-* notes.md 
+   40  history > hist_001.txt
